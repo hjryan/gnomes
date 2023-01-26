@@ -2,7 +2,7 @@
 
 A group of cave gnomes, while in a dark cave, have their foreheads painted red or blue. They cannot see the color of their own foreheads, or anything else while they are in the cave. The gnomes are asked to exit the cave one by one and automatically sort themselves by color without communicating in any way after they leave the cave (verbal or non-verbal).
 
-![](/gnomes.gif)
+![](/gifs/gnomes.gif)
 
 # How did they do this?
 
