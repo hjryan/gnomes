@@ -2,6 +2,8 @@
 
 A group of cave gnomes, while in a dark cave, have their foreheads painted red or blue. They cannot see the color of their own foreheads, or anything else while they are in the cave. The gnomes are asked to exit the cave one by one and automatically sort themselves by color without communicating in any way after they leave the cave (verbal or non-verbal).
 
+![](/gnomes.gif)
+
 # How did they do this?
 
 The gnomes, upon exiting the cave, form an array. Each gnome after the second gnome analyzes the array with which they are met. If the array is entirely gnomes of a single color, the exiting gnome stands at the end of the array. He does this because if he is the same color as the other gnomes, he will fit right in, and if he is not, he will not disrupt their order. If the gnome array is composed of more than one color, he inserts himself where the gnomes of one color meet the gnomes of another color. This allows each exiting gnome to sort the gnome who emerged immediately before him by sorting himself.
